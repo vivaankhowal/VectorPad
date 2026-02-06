@@ -1,4 +1,4 @@
-# VectorPad QMK Firmware
+# VectorPad KMK Firmware
 # Extras Rotary Encoder + SSD1306 OLED
 
 import board
